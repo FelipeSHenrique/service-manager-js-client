@@ -11,3 +11,5 @@ register({
 });
 
 ```
+
+You can provide a `function` to the `value` as well.
